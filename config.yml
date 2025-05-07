@@ -1,0 +1,56 @@
+baseURL: "https://dscmatter.github.io/aboutblog/"
+languageCode: en-us
+title: DSCmatter
+theme: "PaperMod"
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+
+params:
+  showScrollTop: true
+  homeInfoParams:
+    Title: Hi Stranger
+    Content: Welcome to my humble abode...
+  socialIcons:
+    - name: github
+      url: "https://github.com/DSCmatter"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vasant-mogia/"
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  showPostNavLinks: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about
+      weight: 2
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 4
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 5 
+
+taxonomies:
+  category: categories
+  tag: tags
+
+caches:
+  images:
+    dir: :cacheDir/images
