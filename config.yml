@@ -11,8 +11,7 @@ markup:
 
 params:
   assets:
-    favicon16: "/favicon-16x16.png"
-    favicon32: "/favicon-32x32.png"
+    favicon: "/favicon.png"
   showScrollTop: true
   homeInfoParams:
     Title: Hi Stranger
