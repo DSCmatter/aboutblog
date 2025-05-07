@@ -7,12 +7,15 @@ markup:
   goldmark:
     renderer:
       hardWraps: true
+      unsafe: true
 
 params:
   showScrollTop: true
   homeInfoParams:
     Title: Hi Stranger
-    Content: Welcome to my humble abode...
+    Content: | 
+            Welcome to my humble abode...  
+            Here I talk about myself, Videogames and possibly some tech stuff.
   socialIcons:
     - name: github
       url: "https://github.com/DSCmatter"
@@ -34,10 +37,6 @@ menu:
       name: About
       url: /about
       weight: 2
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 3
     - identifier: tags
       name: Tags
       url: /tags/
