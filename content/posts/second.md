@@ -1,7 +1,7 @@
 +++
 date = "2025-05-07T07:20:00+05:30"
 draft = false
-title = "Clair Obscur: Expedition 33, The Best Turn Based RPGs ever"
+title = "Clair Obscur: Expedition 33, The Best Turn Based RPG ever"
 
 tags = ["VideoGames"]
 
@@ -13,22 +13,22 @@ caption = ""
 
 ### The GOAT of 2025
 
-A really really great game from such small team 
-Truly a contender for GOTY!
+A really, really great game from such a small team — truly a contender for GOTY!
 
-My playtime was around 36 hours and it was truly one hell of a journey. 
-Athough I don't write much about games but this is one hell of a experience!
-And since I started this blog, I might as well write something.
+My playtime was around 36 hours, and it was one hell of a journey.
+Although I don’t usually write much about games, this was one unforgettable experience!
+And since I’ve started this blog, I figured I might as well write something.
 
-For me Turn based RPGs hold a different place in my heart
-As someone who has played Persona 3 Reload, Refantazio, Pokemon games.
+Turn-based RPGs hold a special place in my heart.
+As someone who has played Persona 3 Reload, Refantazio, and the Pokémon games, this one felt like a fresh take—almost like a AAA-quality title from a smaller team.
 
-This game is a fresh take in the AAA series like games.
-Although I couldn't get to take look at its amazing graphics because of my old 1650 GPU it was still good even at Low graphics.
+Even though I couldn’t enjoy the full glory of its graphics due to my aging GTX 1650, it still looked great on low settings.
 
-And I truly enjoyed every moment, the battles, story and the one of all the [Music](https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc?si=l_DMjew8R22zp-vAVdP6HQ)
-A kind of music which gives me an emotional and addicting feeling even after completing the game.
+I genuinely loved every moment—the battles, the story, and above all, the [music](https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc?si=l_DMjew8R22zp-vAVdP6HQ).
+It’s the kind of soundtrack that stays with you—emotional, immersive, and addicting, even after the credits roll.
 
-Below I have embeded soundtrack for this game, feel free to listen: 
+Remember, Tomorrow comes.
+
+Below, I’ve embedded the soundtrack. Feel free to give it a listen:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5epJvt9jHbYI1j6WqCppGc?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

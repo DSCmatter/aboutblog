@@ -10,6 +10,9 @@ markup:
       unsafe: true
 
 params:
+  assets:
+    favicon16: "/favicon-16x16.png"
+    favicon32: "/favicon-32x32.png"
   showScrollTop: true
   homeInfoParams:
     Title: Hi Stranger
