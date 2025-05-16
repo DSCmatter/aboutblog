@@ -111,9 +111,9 @@ Like to do Youtube? Finance? Tech? or perhaps you just love money?
 If it's unfamiliar, don’t panic — explain what you do understand, try to reason through it, and don’t hesitate to ask the interviewer for hints.
 (It’s okay to not know everything — it’s not a stupidity contest 😊)
 
-### 4 Others
+### 4 Referrals
 
-- **Referrals** - Honestly the easiest way is to take courses above your year level, make friends, and then when those people graduate 1 year ahead of you use them when they've been at their companies 12 months
+- Honestly the easiest way is to take courses above your year level, make friends, and then when those people graduate 1 year ahead of you use them when they've been at their companies 12 months
     - *if your school/college allows you to take such courses, as mine doesn't*...
     - Alumni can also help.
     - Friends, family, siblings...
