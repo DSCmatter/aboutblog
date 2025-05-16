@@ -44,6 +44,16 @@ Let's focus on Intern/Fresher roles:
 Here are some resume tips I personally vouch for.
 **(Some people might have different opinions — and that’s okay. The goal is to read, think, and decide what works for you.)**
 
+That said...
+
+## Welcome to RESUME 101
+
+**Think of this as your no-fluff crash course on crafting a resume that actually gets noticed**
+
+![gg](https://i1.sndcdn.com/artworks-000295712100-a5p9b1-t500x500.jpg)
+
+**Let’s break it down.**
+
 ### 1 Ask yourself these questions and think.
 
 - What kind of job do you want to get? Front-end Web? Back-end Web? Enterprise applications? a job in C++ building databases? games industry?
